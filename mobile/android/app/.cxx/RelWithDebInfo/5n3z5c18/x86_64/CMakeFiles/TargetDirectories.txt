@@ -1,0 +1,2 @@
+D:/1ProgramFile/Github/TA-mobile/android/app/.cxx/RelWithDebInfo/5n3z5c18/x86_64/CMakeFiles/edit_cache.dir
+D:/1ProgramFile/Github/TA-mobile/android/app/.cxx/RelWithDebInfo/5n3z5c18/x86_64/CMakeFiles/rebuild_cache.dir
