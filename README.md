@@ -1,4 +1,6 @@
-# 💇‍♀️ Reservation System Multiplatform
+# Reservation System Multiplatform
+
+![alt text](https://github.com/rizalfahlevi8/Reservation-Multiplatform/blob/main/mockup.png?raw=true)
 
 A complete **Reservation System** built as a **single repository (monorepo)** that contains:
 
