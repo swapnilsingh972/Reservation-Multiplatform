@@ -1,11 +1,11 @@
-# 💇‍♀️ Salon Reservation System (Monorepo)
+# 💇‍♀️ Reservation System Multiplatform
 
-A complete **Salon Reservation System** built as a **single repository (monorepo)** that contains:
+A complete **Reservation System** built as a **single repository (monorepo)** that contains:
 
 - 📱 **Mobile App (Customer)** built with **Flutter**
 - 🌐 **Web Platform (Admin & Employee)** built with **Laravel**
 
-This system allows customers to book salon appointments seamlessly while enabling administrators and employees to manage services, schedules, and reservations efficiently.
+This system uses a salon reservation case study that allows customers to book appointments at the salon easily, while also allowing administrators and employees to manage services, schedules, and reservations efficiently.
 
 ---
 
